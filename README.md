@@ -26,4 +26,4 @@ options:
   --distribution {g,e}  The distribution at the nodes (g for Gaussian and e for Exponential)
 ```
 
-[1] M. Kayaalp, Y. İnan, V. Koivunen, E. Telatar, and A. H. Sayed, “On the Fusion Strategies for Federated Decision Mak- ing,” 2023. [Accepted to IEEE Statistical Signal Processing Workshop, 2023]. Preprint: https://arxiv.org/abs/2303.06109.
+[1] M. Kayaalp, Y. İnan, V. Koivunen, E. Telatar, and A. H. Sayed, “On the Fusion Strategies for Federated Decision Making,” 2023. [Accepted to IEEE Statistical Signal Processing Workshop, 2023]. Preprint: https://arxiv.org/abs/2303.06109.
