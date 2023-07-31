@@ -1,4 +1,4 @@
-# aa-ga-normality
+# aa-ga-normality [![DOI](https://zenodo.org/badge/655864377.svg)](https://zenodo.org/badge/latestdoi/655864377)
 
 This repository contains the code pertaining to the simulations in [1]. In this version, the combination matrix and the correlation matrix for the Gaussian case are fixed and equal to the ones in the manuscript. One needs to change them manually if necessary.
 
